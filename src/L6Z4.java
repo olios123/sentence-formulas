@@ -191,7 +191,7 @@ public class L6Z4 {
 
 			// Brak argumentów - wypisać działanie programu
 			if (wyrazenie.isEmpty()) {
-				System.out.println("L6Z4 \"<formula>\"");
+				System.out.println("Wywolanie: L6Z4 \"<formula>\"");
 				return;
 			}
 
@@ -230,7 +230,7 @@ public class L6Z4 {
 			}
 		} else {
 			// Brak argumentów - wypisać działanie programu
-			System.out.println("L6Z4 \"<formula>\"");
+			System.out.println("Wywolanie: L6Z4 \"<formula>\"");
 		}
 	}
 }
