@@ -15,7 +15,7 @@ public class L6Z4 {
 	// 3. Jeżeli F1 i F2 są formułami, to (F1 K F2), (F1 A F2), (F1 C F2), (F1 E F2) są formułami (koniunkcja, alternatywa, implikacja, równoważność)
 	//
 	// Dodatkowe zasady:
-	// - Każda formuła złożona musi być otoczona nawias
+	// - Każda formuła złożona musi być otoczona nawiasem
 	// - Negacja zawsze ma jeden argument
 	// - Operatory dwuargumentowe zawsze mają dwa argumenty
 	//
