@@ -226,7 +226,7 @@ public class L6Z4 {
 					wypiszBlad(Bledy.NIEOCZEKIWANE_ZNAKI_NA_KONCU);
 				else
 					// Poprawna formuła
-					System.out.println("Poprwana formula");
+					System.out.println("Poprawna formula");
 			}
 		} else {
 			// Brak argumentów - wypisać działanie programu
